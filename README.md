@@ -16,9 +16,6 @@ I have hands-on experience with a variety of tools, frameworks, and languages, i
 ### Match the Flag
 A browser-based flag identification game built using HTML, CSS, JavaScript, jQuery, and AJAX. Designed to test and improve geographic knowledge through interactive play.
 
-### Alpine Linux RAM-Only ISO - Ephemera
-Currently developing a custom Alpine Linux ISO that runs entirely in RAM. The goal is to create a minimal, fast-booting environment suitable for privacy-focused or disposable use cases.
-
 ---
 
 ## Interests
