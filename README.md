@@ -24,12 +24,6 @@ This passion project will hopefully help anyone who is interested in Qubes OS an
 ### Arch Linux Installer and dotfiles
 This script installs arch linux with my own configuration and dotfiles. This was done with guidance from the book Mouseless Dev which I highly recommend.
 
-### Match the Flag
-A browser-based flag identification game built using HTML, CSS, JavaScript, jQuery, and AJAX. Designed to test and improve geographic knowledge through interactive play.
-
-### Guess the Number
-A simple guess the number game made with HTML, CSS and JavaScript. First project implementing those languages.
-
 ---
 
 ## Interests
