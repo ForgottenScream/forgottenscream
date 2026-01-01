@@ -1,6 +1,8 @@
 # About Me
 
-Hello, I'm a Computer Science student with a strong interest in Linux systems, networking, self-hosting, low-level software, and open-source technologies. I enjoy working close to the system and often build and experiment with custom configurations, lightweight environments, and alternative operating systems.
+I am a Computer Science student with a strong interest in Linux systems, networking, self-hosting, low-level software, and open-source technologies. 
+
+I enjoy working close to the system and often build and experiment with custom configurations, lightweight environments, and alternative operating systems.
 
 I have hands-on experience with a variety of tools, frameworks, and languages, including:
 
@@ -13,12 +15,11 @@ I have hands-on experience with a variety of tools, frameworks, and languages, i
 
 ## Projects
 
+I am using Github as a portfolio to showcase finished or presentable projects, other works wil be stored in other forges and mirrored/migrated based on progress.
+
 ### My Qubes OS Journey
 This project will document my journey with Qubes OS, it is everchanging as I will be constantly improving my experience with Qubes and therefore the documentation to go with it.
 This passion project will hopefully help anyone who is interested in Qubes OS and wants a straight forward approach to installing, configuring and automating their experience.
-
-### Accountable
-The organized, DYI way to be responsible and keep track of your finances. The application will be designed to be as portable as possible to respect your privacy.
 
 ### Arch Linux Installer and dotfiles
 This script installs arch linux with my own configuration and dotfiles. This was done with guidance from the book Mouseless Dev which I highly recommend.
