@@ -1,6 +1,6 @@
 # About Me
 
-I am a Computer Science student with a strong interest in Linux systems, networking, self-hosting, low-level software, and open-source technologies. 
+I am a Computer Science student with a strong interest in Linux systems, networking, self-hosting, and open-source technologies. 
 
 I enjoy working close to the system and often build and experiment with custom configurations, lightweight environments, and alternative operating systems.
 
@@ -31,7 +31,7 @@ This script installs arch linux with my own configuration and dotfiles. This was
 - Linux customization and system internals
 - Lightweight and minimalist computing
 - Security-conscious systems (e.g., Qubes OS)
-- Web development with a focus on simplicity and function
+- Web development with a focus on functionality, simplicity and security.
 - Exploring programming paradigms (especially functional programming through Haskell)
 
 ---
