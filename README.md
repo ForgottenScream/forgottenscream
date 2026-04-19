@@ -6,7 +6,7 @@ I enjoy working close to the system and often build and experiment with custom c
 
 I have hands-on experience with a variety of tools, frameworks, and languages, including:
 
-- **Languages & Web Tech**: Go, Haskell, Java, JavaScript, PHP, HTML, CSS, jQuery, JSON, AJAX, XML
+- **Languages & Web Tech**: Python, Go, Haskell, Java, JavaScript, PHP, HTML, CSS, jQuery, JSON, AJAX, XML
 - **Databases**: MySQL, PostgreSQL
 - **Operating Systems**: Qubes OS, Arch Linux, Alpine Linux, Ubuntu
 - **Tools**: Neovim, Tmux, LaTeX, Git, Bash
