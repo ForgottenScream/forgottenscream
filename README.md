@@ -19,8 +19,8 @@ I am using Github as a portfolio to showcase finished or presentable projects, o
 
 ### GDPR Enforcement Pipeline
 This project provides a semi-automated pipeline that:
-- fetches enforcement decisions from Data Protection Authorities
-- standardizes enforcement decisions into a common schema
+- Fetches enforcement decisions from Data Protection Authorities
+- Standardizes enforcement decisions into a common schema
 - Utilizes LLM model to process supporting documents using local Tesseract OCR
 - Outputs data points into visual diagrams with D3.js
 ### My Qubes OS Journey
