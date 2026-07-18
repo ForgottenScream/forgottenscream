@@ -1,6 +1,7 @@
 > [!NOTE]
 > Computer Science graduate focused on Linux systems, networking, and security-conscious computing.
 > Self-hoster, open-source contributor, and builder of lightweight, minimal environments.
+> GPG Fingerprint: DB8D62C929A404BD00F6B94835AE39CC59F0828E
 > Open to software engineering opportunities — reach me at [ForgottenScream@protonmail.com](mailto:ForgottenScream@protonmail.com)
 
 ---
