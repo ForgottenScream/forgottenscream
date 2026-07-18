@@ -1,10 +1,3 @@
-> [!NOTE]
-> GPG Fingerprint: DB8D62C929A404BD00F6B94835AE39CC59F0828E
-> [ForgottenScream@protonmail.com](mailto:ForgottenScream@protonmail.com) for
-> any enquires.
-
----
-
 ## About
 Computer Science graduate focused on Linux systems, networking, and security-conscious computing.
 Self-hoster, open-source contributor, and builder of lightweight, minimal environments.
@@ -53,3 +46,18 @@ with guidance from *Mouseless Dev*, which I highly recommend.
 - Security-conscious systems (e.g., Qubes OS)
 - Web development with a focus on functionality, simplicity, and security
 - Exploring programming paradigms (especially functional programming through Haskell)
+
+---
+
+## GPG Key Fingerprint
+
+`DB8D62C929A404BD00F6B94835AE39CC59F0828E`
+
+Verify this key [here](https://keys.openpgp.org/search?q=DB8D62C929A404BD00F6B94835AE39CC59F0828E).
+
+Import:
+
+bash gpg --keyserver hkps://keys.openpgp.org --recv-keys 35AE39CC59F0828E
+
+> [!NOTE]
+> [ForgottenScream@protonmail.com](mailto:ForgottenScream@protonmail.com) for any enquires.
