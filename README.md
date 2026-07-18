@@ -1,7 +1,7 @@
 > [!NOTE]
 > Computer Science graduate focused on Linux systems, networking, and security-conscious computing.
 > Self-hoster, open-source contributor, and builder of lightweight, minimal environments.
-> Open to software engineering opportunities — reach me at [handle@email.com](mailto:handle@email.com)
+> Open to software engineering opportunities — reach me at [ForgottenScream@protonmail.com](mailto:ForgottenScream@protonmail.com)
 
 ---
 
